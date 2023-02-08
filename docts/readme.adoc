@@ -1,0 +1,1 @@
+image::../images/D_Classe.JPG["Diagramme de classes"]
