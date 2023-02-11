@@ -26,6 +26,6 @@ abstract class Titulaire extends Prof {
         this.couleur = couleur;
     }
     
-    abstract public void setDefaultCouleur(String couleur);    
+    public void setDefaultCouleur(String couleur) {};
     
 }

@@ -11,5 +11,4 @@ package bts2java;
  */
 public interface Mortel {
      public String meurt();
-    
 }
